@@ -98,4 +98,4 @@ if __name__ == '__main__':
         delete_deployment()
         time.sleep(40)
 
-    print("Done")
+   
